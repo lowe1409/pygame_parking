@@ -1,0 +1,16 @@
+
+
+reg: DFFFF
+ price payed: �85.00
+
+
+reg: MT13GFD
+ price payed: �42.50
+
+
+reg: MT13GFD
+ price payed: �42.50
+
+
+reg: MT13GFD
+ price payed: �40.00
